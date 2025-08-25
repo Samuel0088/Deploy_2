@@ -118,8 +118,6 @@ a:hover {
     position: fixed;
     top: 0;
     right: 0;
-    height: 100vh;
-    width: 250px;
     background: #10162f;
     flex-direction: column;
     padding: 4rem 1.5rem 1.5rem;
